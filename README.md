@@ -1,4 +1,4 @@
-## meu nome é Miguel jogo vôlei e free fire
+## meu nome é Miguel Veiga jogo vôlei e free fire
 
 <!--
 **veigafps/veigafps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
